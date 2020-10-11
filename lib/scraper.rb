@@ -6,3 +6,4 @@ doc = Nokogiri::HTML(html)
 doc.css(".headline-26OIBN").text
 
 puts doc.css(".headline-26OIBN")
+
